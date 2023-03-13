@@ -1,5 +1,4 @@
-# CEPE
-Coordenadas com geopy 
+# Coordenadas com geopy 
 
 - Importando pacotes e ler o dataframe
 
